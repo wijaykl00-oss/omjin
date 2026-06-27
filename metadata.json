@@ -1,0 +1,6 @@
+{
+  "name": "Biodata Om Jin Pengampon",
+  "description": "Website biodata dan profil resmi artis Om Jin Pengampon (Sahabat Anak Indonesia), lengkap dengan galeri karya, perjalanan karier, dan kolom komentar penggemar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
