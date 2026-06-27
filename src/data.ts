@@ -14,7 +14,7 @@ export const BIODATA_LIST: BiodataDetail[] = [
   { label: "Nama Asli", value: "Agus Widjaya" },
   { label: "Nama Panggung", value: "Om Jin Sahabat Anak Indonesia" },
   { label: "Tempat Lahir", value: "Kampung Pengampon Stasiun Semut, Surabaya" },
-  { label: "Profesi", value: "Pelawak, Pemain Ludruk, Aktor Film/Sinetron, Pemain Lenong, Penyanyi" },
+  { label: "Profesi", value: "Pelawak, Pemain Ludruk, Pemain Sulap, Aktor Film/Sinetron, Pemain Lenong, Penyanyi" },
   { label: "Awal Karir", value: "Tahun 1988 (Bergabung Teater SAE)" },
   { label: "Keanggotaan Kesenian", value: "Teater SAE, KLJ (Komunitas Ludruk Jakarta), Ludruk Kontjo Lawas" },
   { label: "Misi Sosial", value: "Menghibur & melakukan aksi sosial di daerah bencana Indonesia" }
