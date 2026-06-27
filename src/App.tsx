@@ -318,7 +318,7 @@ export default function App() {
               <BookOpen className="w-6 h-6" />
             </div>
             <div>
-              <h2 className="text-xl font-bold text-white tracking-tight">Kisah Inspiratif Agus Pengampon</h2>
+              <h2 className="text-xl font-bold text-white tracking-tight">Kisah Inspiratif Agus Widjaya</h2>
               <p className="text-xs sm:text-sm text-slate-400">Biografi lengkap & dedikasi seni Om Jin Sahabat Anak Indonesia</p>
             </div>
           </div>

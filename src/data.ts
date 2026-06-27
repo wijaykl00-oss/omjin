@@ -2,16 +2,16 @@ import { BiodataDetail, CommentItem, GalleryPhoto, SocialMedia } from './types';
 
 export const PROFILE_INFO = {
   name: "Om Jin Sahabat Anak Indonesia",
-  realName: "Agus Pengampon",
+  realName: "Agus Widjaya",
   title: "Seniman Ludruk, Aktor, & Tokoh Kemanusiaan",
   tagline: "Membawa Tawa, Seni Tradisional, dan Kepedulian Sosial untuk Anak Nusantara",
-  bioShort: "Agus Pengampon, yang lebih dikenal sebagai “Om Jin Sahabat Anak Indonesia”, adalah seorang tokoh seni peran, pelawak, dan ludruk legendaris asal Surabaya yang mendedikasikan jiwanya untuk menghibur masyarakat serta aktif dalam aksi sosial di daerah bencana.",
+  bioShort: "Agus Widjaya, yang lebih dikenal sebagai “Om Jin Sahabat Anak Indonesia”, adalah seorang tokoh seni peran, pelawak, dan ludruk legendaris asal Surabaya yang mendedikasikan jiwanya untuk menghibur masyarakat serta aktif dalam aksi sosial di daerah bencana.",
   avatarUrl: "/images.jpeg",
   heroBanner: "/omjin-agus-pengampon.jpg",
 };
 
 export const BIODATA_LIST: BiodataDetail[] = [
-  { label: "Nama Asli", value: "Agus Pengampon" },
+  { label: "Nama Asli", value: "Agus Widjaya" },
   { label: "Nama Panggung", value: "Om Jin Sahabat Anak Indonesia" },
   { label: "Tempat Lahir", value: "Kampung Pengampon Stasiun Semut, Surabaya" },
   { label: "Profesi", value: "Pelawak, Pemain Ludruk, Aktor Film/Sinetron, Pemain Lenong, Penyanyi" },
@@ -44,7 +44,7 @@ export const CAREER_JOURNEY = [
 ];
 
 export const DETAILED_BIOGRAPHY = {
-  intro: "Sosok Agus Pengampon yang lebih dikenal dengan sebutan “Om Jin Sahabat Anak Indonesia”, adalah seorang tokoh legendaris yang berasal dari kota pahlawan, Surabaya. Beliau adalah seorang pelawak, pemain ludruk, pemain film, pemain sinetron, pemain lenong, dan penyanyi. Om Jin telah banyak menghibur anak-anak dan masyarakat hingga ke pelosok nusantara.",
+  intro: "Sosok Agus Widjaya yang lebih dikenal dengan sebutan “Om Jin Sahabat Anak Indonesia”, adalah seorang tokoh legendaris yang berasal dari kota pahlawan, Surabaya. Beliau adalah seorang pelawak, pemain ludruk, pemain film, pemain sinetron, pemain lenong, dan penyanyi. Om Jin telah banyak menghibur anak-anak dan masyarakat hingga ke pelosok nusantara.",
   sections: [
     {
       title: "Asal-Usul & Lingkungan Ludruk Surabaya",
@@ -75,7 +75,7 @@ export const DETAILED_BIOGRAPHY = {
       category: "Kemanusiaan",
       paragraphs: [
         "Di luar panggung hiburan, Om Jin adalah sosok yang dikenal memiliki jiwa sosial yang sangat tinggi. Beliau memiliki jiwa sosial yang tinggi untuk menghibur dan melakukan kegiatan sosial lainnya untuk membantu meringankan beban sesama, terutama mendatangi anak-anak di daerah bencana di seluruh wilayah Indonesia.",
-        "Agus Pengampon — “Om Jin Sahabat Anak Indonesia”, seorang legenda yang selalu dikenang dalam hati masyarakat Indonesia atas tawa, kebaikan, dan dedikasinya."
+        "Agus Widjaya — “Om Jin Sahabat Anak Indonesia”, seorang legenda yang selalu dikenang dalam hati masyarakat Indonesia atas tawa, kebaikan, dan dedikasinya."
       ]
     }
   ],
